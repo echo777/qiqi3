@@ -1,1 +1,16 @@
-good morning
+good morning ,everybody
+#include<iostream>
+#include<string.h>
+using namespace std;
+class Student
+{
+   string name;
+   int score;
+public:
+   void setName(string )
+  
+
+
+
+
+};
